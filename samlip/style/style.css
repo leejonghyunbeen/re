@@ -1,0 +1,9 @@
+main {}
+main .mainContent {}
+main .mainContent h1 {}
+main .mainContent .goalMenu {}
+main .mainContent .goalMenu  li:nth-child(1) {}
+main .mainContent .goalMenu  li:nth-child(2) {}
+main .mainContent .goalMenu  li:nth-child(3) {}
+main .mainContent .stratehyMenu li {}
+main .mainContent .stratehyMenu li h2{}

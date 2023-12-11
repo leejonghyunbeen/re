@@ -1,0 +1,26 @@
+header {}
+header .top {}
+header .top .left {}
+header .top .left a {}
+header .top .left a img {}
+header .top .left p {}
+header .top .left p a{}
+header .top .right {}
+header .top .right p {}
+header .top .right p a {}
+header .bottom {}
+header .bottom h1 {}
+header .bottom h1 a {}
+header .bottom h1 a img {}
+header .bottom #search {}
+header .bottom #search fieldset {}
+header .bottom #search fieldset legend {}
+header .bottom #search fieldset #searchWorde {}
+header .bottom #search fieldset .searchBtn {}
+header .bottom #search fieldset #lang  {}
+header .bottom #search fieldset #lang option  {}
+header .bottom #search fieldset #goBtn {}
+header .bottom .wearher {}
+header .bottom .wearher p {}
+header .bottom .wearher p em {}
+
